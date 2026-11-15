@@ -102,6 +102,8 @@ Includes Cleanroom-based modernization and Forge-oriented fixes. Check the suppo
 
 ## Development Tools
 
+- [RetroFuturaGradle](<https://github.com/GTNewHorizons/RetroFuturaGradle>) - Modern Gradle development toolchain for Minecraft 1.7.10 Forge mods. [Notes](<resources/retrofuturagradle.md>).
+- [CleanroomGradle](<https://github.com/CleanroomMC/CleanroomGradle>) - Gradle plugin for Cleanroom loader development and Cleanroom-targeted 1.12.2 mods. [Notes](<resources/cleanroomgradle.md>).
 - [Legacy-Modding-Skills](<https://github.com/erialsan/Legacy-Modding-Skills>) - Agent Skills by erialsan for migrating 1.7.10/1.12.2 mod build environments using GTNH and CleanroomMC templates. [Notes](<resources/legacy-modding-skills.md>).
 
 ## Blogs

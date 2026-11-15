@@ -40,6 +40,8 @@ okf_version: "0.2"
 
 ## Communities, Documentation, and Development Resources
 
+- [CleanroomGradle](<resources/cleanroomgradle.md>) - A Gradle plugin for Cleanroom loader development and Cleanroom-targeted Minecraft 1.12.2 mods.
+- [RetroFuturaGradle](<resources/retrofuturagradle.md>) - A modern Gradle development toolchain for Minecraft 1.7.10 Forge mods.
 - [Cleanroom Official Website](<resources/cleanroom-site.md>) - Official entry point for the Cleanroom loader, community mods, tools, and documentation.
 - [GTNH Forks and Development Repositories](<resources/gtnh-github.md>) - Maintained mod forks, libraries, and development tools from GT New Horizons.
 - [GT New Horizons Wiki](<resources/gtnh-wiki.md>) - Community documentation for the Minecraft 1.7.10 GT New Horizons modpack.

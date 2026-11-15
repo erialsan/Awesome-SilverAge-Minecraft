@@ -2,6 +2,7 @@
 
 ## 2026-11-15
 
+- Added RetroFuturaGradle and CleanroomGradle to Development Tools, with sourced OKF notes distinguishing 1.7.10 Forge and Cleanroom-targeted development workflows.
 - Added Roughly Enough IDs (REID) and Had Enough Items (HEI) to Minecraft 1.12.2, with sourced OKF notes, ID-extension and recipe-browser categories, and a warning about removing REID from saved worlds.
 - Created an English Awesome SilverAge Minecraft list with a table of contents, categorized project links, and concise descriptions, following the conventional Awesome-list layout.
 - Organized the repository as an OKF v0.2 bundle with one document per mod or resource, a complete index, and this dated log.
