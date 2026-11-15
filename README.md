@@ -25,6 +25,8 @@ This is a resource list, **not an install-everything modpack**. Check each proje
 - [Minecraft 1.12.2](#minecraft-1122)
   - [Runtime and Rendering](#runtime-and-rendering)
   - [Optimization and Fixes](#optimization-and-fixes)
+  - [ID Extensions](#id-extensions)
+  - [Item and Recipe Browsing](#item-and-recipe-browsing)
 - [Communities and Documentation](#communities-and-documentation)
 - [Development Tools](#development-tools)
 - [Blogs](#blogs)
@@ -83,6 +85,14 @@ Includes Cleanroom-based modernization and Forge-oriented fixes. Check the suppo
 - [StellarCore](<https://github.com/NovaEngineering-Source/StellarCore>) - Client/server performance improvements and mod compatibility fixes. [Notes](<mods/1.12.2/stellarcore.md>).
 - [Universal Tweaks](<https://github.com/ACGaming/UniversalTweaks>) - Configurable collection of bug fixes and tweaks. [Notes](<mods/1.12.2/universal-tweaks.md>).
 - [VintageFix](<https://github.com/embeddedt/VintageFix>) - Startup, resource-loading, and memory improvements. [Notes](<mods/1.12.2/vintagefix.md>).
+
+### ID Extensions
+
+- [Roughly Enough IDs (REID)](<https://modrinth.com/mod/reid>) - Extend block, item, biome, potion, and enchantment ID limits. Removing REID breaks worlds saved with it. [Notes](<mods/1.12.2/reid.md>).
+
+### Item and Recipe Browsing
+
+- [Had Enough Items (HEI)](<https://modrinth.com/mod/had-enough-items>) - JEI fork with performance optimizations, enhanced recipe bookmarks, and autocrafting. [Notes](<mods/1.12.2/had-enough-items.md>).
 
 ## Communities and Documentation
 

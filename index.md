@@ -30,8 +30,10 @@ okf_version: "0.2"
 - [Chibi (formerly LoliASM)](<mods/1.12.2/chibi.md>) - An optimization mod focused on memory usage, crash prevention, and more.
 - [Cleanroom](<mods/1.12.2/cleanroom.md>) - A loader and ecosystem for 1.12.2, built as a continuation of MinecraftForge.
 - [Demonica](<mods/1.12.2/demonica.md>) - A shader support mod derived from Actinium, with roots in Iris.
+- [Had Enough Items (HEI)](<mods/1.12.2/had-enough-items.md>) - A JEI fork with performance optimizations, enhanced recipe bookmarks, and autocrafting.
 - [PaperFixes](<mods/1.12.2/paperfixes.md>) - Ports bug fixes and performance improvements from CraftBukkit / Spigot / Paper to a Forge mod.
 - [Pulsar lighting engine](<mods/1.12.2/pulsar.md>) - A lighting engine for Cleanroom based on Starlight / SuperNova, with SCALAR / RGB modes.
+- [Roughly Enough IDs (REID)](<mods/1.12.2/reid.md>) - Extends block, item, biome, potion, and enchantment ID limits using a newer chunk format.
 - [StellarCore](<mods/1.12.2/stellarcore.md>) - A collection of client and server performance improvements and mod compatibility fixes.
 - [Universal Tweaks](<mods/1.12.2/universal-tweaks.md>) - A collection of bug fixes and tweaks for 1.12.2. Each change can be toggled in the configuration.
 - [VintageFix](<mods/1.12.2/vintagefix.md>) - Improves startup, resource loading, memory usage, and more.
