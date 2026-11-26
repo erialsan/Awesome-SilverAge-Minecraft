@@ -6,7 +6,7 @@ resource: "https://github.com/ndellagrotte/Demonica"
 tags: ["minecraft", "1.12.2", "shaders"]
 status: "draft"
 sources: [{"resource": "https://www.curseforge.com/minecraft/mc-mods/demonica-shaders"}]
-generated: {"by": "AI assistant", "at": "2026-11-15T07:00:51+00:00"}
+generated: {"by": "process:ai-assistant", "at": "2026-11-15T07:00:51+00:00"}
 ---
 
 # Demonica

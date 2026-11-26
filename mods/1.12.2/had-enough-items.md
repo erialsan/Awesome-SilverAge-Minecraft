@@ -6,7 +6,7 @@ resource: "https://modrinth.com/mod/had-enough-items"
 tags: ["minecraft", "1.12.2", "interface and recipes"]
 status: "draft"
 sources: [{"resource": "https://modrinth.com/mod/had-enough-items"}, {"resource": "https://api.modrinth.com/v2/project/had-enough-items"}]
-generated: {"by": "AI assistant", "at": "2026-11-15T16:30:10+09:00"}
+generated: {"by": "process:ai-assistant", "at": "2026-11-15T16:30:10+09:00"}
 ---
 
 # Had Enough Items (HEI)

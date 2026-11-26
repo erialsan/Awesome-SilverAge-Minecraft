@@ -6,7 +6,7 @@ resource: "https://github.com/NovaEngineering-Source/StellarCore"
 tags: ["minecraft", "1.12.2", "optimization and fixes"]
 status: "draft"
 sources: [{"resource": "https://github.com/NovaEngineering-Source/StellarCore/blob/master/README.md"}, {"resource": "https://cleanroommc.com/wiki/end-user-guide/preparing-your-modpack"}]
-generated: {"by": "AI assistant", "at": "2026-11-15T07:00:51+00:00"}
+generated: {"by": "process:ai-assistant", "at": "2026-11-15T07:00:51+00:00"}
 ---
 
 # StellarCore

@@ -6,7 +6,7 @@ resource: "https://github.com/CleanroomMC/Cleanroom"
 tags: ["minecraft", "1.12.2", "runtime"]
 status: "draft"
 sources: [{"resource": "https://github.com/CleanroomMC/Cleanroom/blob/HEAD/README.md"}, {"resource": "https://cleanroommc.com/wiki/end-user-guide/preparing-your-modpack"}]
-generated: {"by": "AI assistant", "at": "2026-11-15T07:00:51+00:00"}
+generated: {"by": "process:ai-assistant", "at": "2026-11-15T07:00:51+00:00"}
 ---
 
 # Cleanroom

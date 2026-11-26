@@ -6,7 +6,7 @@ resource: "https://modrinth.com/mod/reid"
 tags: ["minecraft", "1.12.2", "id extensions"]
 status: "draft"
 sources: [{"resource": "https://modrinth.com/mod/reid"}, {"resource": "https://api.modrinth.com/v2/project/reid"}]
-generated: {"by": "AI assistant", "at": "2026-11-15T16:30:10+09:00"}
+generated: {"by": "process:ai-assistant", "at": "2026-11-15T16:30:10+09:00"}
 ---
 
 # Roughly Enough IDs (REID)

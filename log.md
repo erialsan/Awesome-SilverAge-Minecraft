@@ -1,5 +1,9 @@
 # Change Log
 
+## 2026-11-26
+
+- Migrated the bundle to OKF v0.3, added bundle metadata, and normalized the recorded AI generator identifier.
+
 ## 2026-11-15
 
 - Added RetroFuturaGradle and CleanroomGradle to Development Tools, with sourced OKF notes distinguishing 1.7.10 Forge and Cleanroom-targeted development workflows.
