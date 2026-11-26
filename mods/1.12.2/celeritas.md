@@ -6,7 +6,7 @@ resource: "https://git.taumc.org/embeddedt/celeritas"
 tags: ["minecraft", "1.12.2", "rendering"]
 status: "draft"
 sources: [{"resource": "https://cleanroommc.com/wiki/end-user-guide/preparing-your-modpack"}, {"resource": "https://github.com/kappa-maintainer/Celeritas-auto-build/blob/HEAD/README.md"}]
-generated: {"by": "AI assistant", "at": "2026-11-15T07:00:51+00:00"}
+generated: {"by": "process:ai-assistant", "at": "2026-11-15T07:00:51+00:00"}
 ---
 
 # Celeritas

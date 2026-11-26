@@ -6,7 +6,7 @@ resource: "https://github.com/Elephant1214/PaperFixes"
 tags: ["minecraft", "1.12.2", "optimization and fixes"]
 status: "draft"
 sources: [{"resource": "https://github.com/Elephant1214/PaperFixes/blob/HEAD/README.md"}]
-generated: {"by": "AI assistant", "at": "2026-11-15T07:00:51+00:00"}
+generated: {"by": "process:ai-assistant", "at": "2026-11-15T07:00:51+00:00"}
 ---
 
 # PaperFixes

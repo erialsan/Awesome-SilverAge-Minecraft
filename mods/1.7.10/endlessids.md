@@ -6,7 +6,7 @@ resource: "https://github.com/GTMEGA/EndlessIDs"
 tags: ["minecraft", "1.7.10", "ID expansion"]
 status: "draft"
 sources: [{"resource": "https://github.com/erialsan/1.7.10-Essential-mods/blob/main/docs/index.html"}, {"resource": "https://github.com/erialsan/1.7.10-Essential-mods"}]
-generated: {"by": "AI assistant", "at": "2026-11-15T07:00:51+00:00"}
+generated: {"by": "process:ai-assistant", "at": "2026-11-15T07:00:51+00:00"}
 ---
 
 # EndlessIDs

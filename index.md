@@ -1,5 +1,8 @@
 ---
-okf_version: "0.2"
+okf_version: "0.3"
+title: "Awesome SilverAge Minecraft"
+description: "A curated list of mods, tools, and resources for Minecraft 1.0–1.12.2."
+license: "Unlicense"
 ---
 
 # Awesome SilverAge Minecraft — Index

@@ -127,7 +127,7 @@ For a new entry, add an OKF concept document, link it from this list and the [in
 
 ## Knowledge Format
 
-This repository is an [Open Knowledge Format v0.2](<https://raw.githubusercontent.com/fabricioctelles/skills/main/skills/okf-open-knowledge-format/references/spec-v02.md>) bundle. Each mod or resource has a separate concept document with YAML metadata, citations, and ordinary Markdown links.
+This repository is an [Open Knowledge Format v0.3](<https://github.com/open-knowledge-format/open-knowledge-format/blob/main/SPEC.md>) bundle. Each mod or resource has a separate concept document with YAML metadata, citations, and ordinary Markdown links.
 
 - [Index](<index.md>) - All concept documents.
 - [Log](<log.md>) - Dated changes.
